@@ -1,0 +1,7 @@
+[[dependencies]]
+branch = "release-3.1"
+name = "github.com/coreos/etcd"
+
+[[overrides]]
+branch = "master"
+name = "google.golang.org/grpc"
